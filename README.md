@@ -38,4 +38,9 @@
 * Ans: 11string
 * Javascript types are dynamic .Example - let a=5; a="string";
 * undefined is datatype
-*  
+
+
+## Events
+
+* the function inside event is called event handler function
+
