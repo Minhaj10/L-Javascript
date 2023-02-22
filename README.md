@@ -44,3 +44,11 @@
 
 * the function inside event is called event handler function
 
+## String
+
+* string addition - > "Hello" + "World"
+* String can defined as object by declaring with 'New' keyword
+*  == check the value is same or not
+* === check the value and type is same or not
+* object cant be compared like == or ===
+
