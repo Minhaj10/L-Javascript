@@ -52,3 +52,14 @@
 * === check the value and type is same or not
 * object cant be compared like == or ===
 
+## string methods
+
+* s.slice(startindex,endindex);
+* if the index perameter is negative it counts from end of the string 
+* s.substr(startindex,length)
+* s.replace(string1,string2)
+* it replace only first match and return a new string
+* s.toUpperCase()
+* s.toLowercase()
+* s.concat(" ",string2)
+* all string method is immutable,string can not be changed ,only replaced
