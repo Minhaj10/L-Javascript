@@ -62,4 +62,8 @@
 * s.toUpperCase()
 * s.toLowercase()
 * s.concat(" ",string2)
-* all string method is immutable,string can not be changed ,only replaced
+* s.trim() removes all whitespace
+* s.split(" ") make an array of words
+* s.split("") make an array of characters
+* all string method is immutable,string can not be changed ,only replaced.
+
