@@ -67,3 +67,15 @@
 * s.split("") make an array of characters
 * all string method is immutable,string can not be changed ,only replaced.
 
+## String search
+
+* s.indexof("string")
+* s.lastIndexof("string")
+* returns -1 if not found
+* s.search()
+* s.includes()
+
+## template leterale
+
+* `string ${something } string`
+
