@@ -80,5 +80,25 @@
 * `string ${something } string`
 
 
-##
+## number
+
+* javascript has only one type of number which is 64 bit floating number
+* integers are accurate to 15 digits
+* string + number = stringcotanation
+* plus has separate rules
+* multiolication and division can be done in string
+* example "100"/"10"=10
+* nan - not a number
+* nan is a number
+* typeof Nan IS A NUMBER
+
+## numbermethod
+
+* toString() returns a number as a string 
+
+## array
+
+* array.toString() convert array to string
+* array.join(" * ") convert to string with custmize space
+
 
