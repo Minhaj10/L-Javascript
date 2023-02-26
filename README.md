@@ -114,4 +114,10 @@
 * array.concate(arra1) merge two array
 * array.slice(1,3) returns a new array (kup)
 
+## array sort
+
+* sort compare string value
+* for numaric value we need to make compare function
+
+
 
