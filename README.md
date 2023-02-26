@@ -100,5 +100,18 @@
 
 * array.toString() convert array to string
 * array.join(" * ") convert to string with custmize space
+* array.pop() return the value of arrays last element
+* array.push("string") 
+* array.push() returns new length of array
+* array.shift() remove first element and return first element
+* array.unshift("5") add a element in the first index
+* array.unshift returns the  length of new array
+* using array.delete make a hole in array.use shift or pop instead
+* array.splice(2,0,"string1","string2")
+* first perameter defines which position to splice
+* second perameter defines how many element to delete
+* rest permeter is the element to add in array
+* array.concate(arra1) merge two array
+* array.slice(1,3) returns a new array (kup)
 
 
