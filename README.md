@@ -141,6 +141,9 @@
 * metacharacter /d for digit search, \s find a white space , \b find the begining of the word
 * n? zero or one
 
+## errors
+
+* try,catch,throw,finally
 
 
 
