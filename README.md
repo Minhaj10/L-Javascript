@@ -126,7 +126,20 @@
 * for of loop
 * while  loop
 
+## itarabels
 
+* javascript objects are not iterable
+
+## javascript regular expression
+
+* search(), replace()
+* /i case insensetive
+* /g global
+* /m multiline
+* [a-z,1-9] find any character between the bracket
+* [x|y] find any alternative
+* metacharacter /d for digit search, \s find a white space , \b find the begining of the word
+* n? zero or one
 
 
 
