@@ -119,7 +119,14 @@
 * sort compare string value
 * for numaric value we need to make compare function
 
-## javascript date
+## javascript LOOPS
+
+* for loop
+* for in loop
+* for of loop
+* while  loop
+
+
 
 
 
