@@ -163,6 +163,19 @@
 * delete()
 * size()
 
+## maps
+
+* maps holds key data type can be anything
+* map.set("key",500)
+* map.has("somethingh") returns true/false
+
+### diffrent between map and object is object key cant be a diffrent than integer,otherhand map key value can be any data type
+
+### object is not iterable map is
+
+### map orderd by insertion
+
+
 
 
 
