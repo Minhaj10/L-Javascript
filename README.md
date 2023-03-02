@@ -145,6 +145,26 @@
 
 * try,catch,throw,finally
 
+## javascript scope
+
+* scope determines visibility of variables
+*  3 types of scope
+* block scope ,global scope, functional scope
+* before es6 there was only two global and functional
+* variable declared in a block scope is only accesseble in inside scope
+* varaible declared with var keyword can not have a block scope that means var declared inside can be accessble from outside
+* inside functional scope var,let or const similar ,cant be access from outside
+* global scope- var,let, or const are similar
+
+## javascript set
+
+* collection of unique elements
+* add()
+* delete()
+* size()
+
+
+
 
 
 
