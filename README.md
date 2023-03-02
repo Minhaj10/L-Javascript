@@ -175,7 +175,10 @@
 
 ### map orderd by insertion
 
+# hoisting
 
+* hoisting is a defualt behaiviour of moving declaration  to the top
+* 
 
 
 
